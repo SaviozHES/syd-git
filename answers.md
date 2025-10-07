@@ -1,7 +1,8 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Nathan Savioz SaviozHES
 
 ## Basics
 ### Task 1
+Les changements ont ete faits, mais ils n'ont pas ete ni comit ni push.
 
 ### Task 2
 
