@@ -14,10 +14,16 @@ Les changements ont ete faits, mais ils n'ont pas ete ni comit ni push.
 Nous avons maintenant 2 unstaged files, et lorsque l'on clique sur le depot actuel, 1 untracked files est affiche
 
 ### Task 4
+Quand on revient au commit « Initial commit », on voit le projet tel qu’il était au tout début : seuls les premiers fichiers sont presents. On est en mode "detache", donc on ne travaille plus sur une branche. En revenant au dernier commit (par exemple via main), on retrouve l’etat actuel complet du projet.
 
 ### Task 5
+Le depot local permet de travailler et sauvegarder les changements sans connexion Internet (stockee sur notre ordinateur).
+Le depot distant, lui, est une version du projet hebergee sur un serveur (comme GitHub) pour partager et collaborer.
+Si vous supprimez le depot local, vous perdez tout votre travail sur votre machine, mais le depot distant reste intact et vous pouvez recuperer le projet en le clonant a nouveau.
 
 ### Task 6
+Non, le depot original qui a ete forke n'a pas ete modifie car toutes les modifications sont faites uniquement sur ta copie (ton fork) et ton depot local.
+Tant que tu ne fais pas de pull request et qu'elle n'est pas acceptee, le depot original reste identique a sa version initiale.
 
 ## Gitgraph
 
