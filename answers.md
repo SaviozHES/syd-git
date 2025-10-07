@@ -28,5 +28,14 @@ Tant que tu ne fais pas de pull request et qu'elle n'est pas acceptee, le depot 
 ## Gitgraph
 
 ### Task 7
-
+1. nom de la brache
+2. hash de commit
+3. message de comit
+4. auteur du commit
+5. v1.0.0 (tag)
+6. dernier comit 
+7. branch secondaire (feature-auth)
+8. last commit de la branche initiale
+9. branch secondaire (develop)
+10. branch main
 ![Gitgraph](img/gitgraph.svg)
